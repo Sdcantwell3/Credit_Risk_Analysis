@@ -50,3 +50,8 @@ Using Supervised Machine Learning to Determine Credit Risk
     - Accuracy score is low
     
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/104606589/189573037-2f467176-c5d4-4802-ac14-6cc479b05606.png)
+
+## Summary
+
+- The 2 ensemble methods performed better than all three of the Oversampling/Undersampling/Combination algorithms.
+- The Cluster Centroids and the Naive Random Oversampling performed the worst with accuracies of .54.
