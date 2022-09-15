@@ -64,4 +64,4 @@ Using Supervised Machine Learning to Determine Credit Risk
 - The recall scores for the Ensemble methods was better then the Oversampling/Undersampling/Combination algorithm. 
 
 ## Conclusion
-
+When compared side by side for this population it would seem that the Easy Ensemble AdaBoost Classifier algorithm is the most affective strategy to determine credit risk.  It had the highest level of accuracy and at 0.93.  This is 15% higher then the next best strategy (Balanced Random Forest).  The AdaBoost algorithm was able to predict high risk with a 0.92 level of accuracy and low risk with 0.94 level of accuracy.  At scale this would save the company hundreds of thousands of dollars that the other models may not pretect the company from.  This level of accuracy would also greatly increase the level of customer satisfaction with far less rejections of qualified borrowers.
