@@ -57,5 +57,11 @@ Using Supervised Machine Learning to Determine Credit Risk
 
 ## Summary
 
-- The 2 ensemble methods performed better than all three of the Oversampling/Undersampling/Combination algorithms.
-- The Cluster Centroids and the Naive Random Oversampling performed the worst with accuracies of .54.
+- At an accuracey of 0.54 Cluster Centriods Undersampling was the least successful algorthim in terms of accuracy.
+- On the other side of the spectrum the Easy Ensemble method yielded the highest leve of accuracy at 0.93.
+- The Low-Risk precision didn't vary for any of the methods and sat a - 1.00.
+- The best high risk precision score was with the Easy Ensemble method at 0.09.
+- The recall scores for the Ensemble methods was better then the Oversampling/Undersampling/Combination algorithm. 
+
+## Conclusion
+
