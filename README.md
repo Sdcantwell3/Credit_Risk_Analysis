@@ -8,6 +8,7 @@ Using Supervised Machine Learning to Determine Credit Risk
     - Recall: High Risk = .69; Low Risk = 0.40
     - Balanced Accuracy Score = 0.54
     - Accuracy score is low
+   
   ![Naive_random_oversampling](https://user-images.githubusercontent.com/104606589/190297367-a45f5e66-6449-4db1-be94-6c5974900581.png)
 
 
