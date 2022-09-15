@@ -8,8 +8,8 @@ Using Supervised Machine Learning to Determine Credit Risk
     - Recall: High Risk = .69; Low Risk = 0.40
     - Balanced Accuracy Score = 0.54
     - Accuracy score is low
-  
-![Naive_random_oversampling](https://user-images.githubusercontent.com/104606589/189573040-f32d1155-1ffe-4564-b687-def7bf41f3d2.png)
+  ![Naive_random_oversampling](https://user-images.githubusercontent.com/104606589/190297367-a45f5e66-6449-4db1-be94-6c5974900581.png)
+
 
 2. SMOTE Oversampling 
     - Precisioin: High Risk = 0.01; Low Risk = 1.00
@@ -17,7 +17,8 @@ Using Supervised Machine Learning to Determine Credit Risk
     - Balanced Accuracy Score = 0.54
     - Accuracy score is low
     
-![SMOTE_OS](https://user-images.githubusercontent.com/104606589/189573042-51b53c91-c249-4519-ab11-7ae3128b591b.png)
+![SMOTE_OS](https://user-images.githubusercontent.com/104606589/190297385-94e2cb07-b145-49e8-9ad3-3ef884e90c98.png)
+
 
 3. Cluster Centroids Undersampling
    - Precisioin: High Risk = 0.01; Low Risk = 1.00
@@ -25,7 +26,8 @@ Using Supervised Machine Learning to Determine Credit Risk
    - Balanced Accuracy Score = 0.54
    - Accuracy score is low
    
-![ClusterCentroidUndersampling](https://user-images.githubusercontent.com/104606589/189573044-0e43f575-0033-426a-9072-1eed1c5bcf25.png)
+![ClusterCentroidUndersampling](https://user-images.githubusercontent.com/104606589/190297415-498a9cf3-c182-4790-a5d8-230fb0c7746c.png)
+
 
 4. SMOTEENN (Combination of Over and Undersampling)
     - Precisioin: High Risk = 0.01; Low Risk = 1.00
@@ -33,7 +35,8 @@ Using Supervised Machine Learning to Determine Credit Risk
     - Balanced Accuracy Score = 0.66
     - Accuracy score is low
     
-![combinationOUSampling](https://user-images.githubusercontent.com/104606589/189573045-7beb6f07-0383-46b5-80be-a2ba151db1b7.png)
+![combinationOUSampling](https://user-images.githubusercontent.com/104606589/190297469-d9008c73-acb0-4ee8-a5c4-53592330b3ce.png)
+
 
 5. Balanced Random Forest Classifier
     - Precisioin: High Risk = 0.03; Low Risk = 1.00
