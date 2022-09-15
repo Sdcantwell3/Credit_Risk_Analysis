@@ -5,8 +5,8 @@ Using Supervised Machine Learning to Determine Credit Risk
 ## Results
 1. Naive Random Oversampling  
     - Precisioin: High Risk = 0.01; Low Risk = 1.00
-    - Recall: High Risk = .69; Low Risk = 0.40
-    - Balanced Accuracy Score = 0.54
+    - Recall: High Risk = .72; Low Risk = 0.56
+    - Balanced Accuracy Score = 0.64
     - Accuracy score is low
    
   ![Naive_random_oversampling](https://user-images.githubusercontent.com/104606589/190297367-a45f5e66-6449-4db1-be94-6c5974900581.png)
@@ -14,8 +14,8 @@ Using Supervised Machine Learning to Determine Credit Risk
 
 2. SMOTE Oversampling 
     - Precisioin: High Risk = 0.01; Low Risk = 1.00
-    - Recall: High Risk = .69; Low Risk = 0.40
-    - Balanced Accuracy Score = 0.54
+    - Recall: High Risk = .62; Low Risk = 0.69
+    - Balanced Accuracy Score = 0.65
     - Accuracy score is low
     
 ![SMOTE_OS](https://user-images.githubusercontent.com/104606589/190297385-94e2cb07-b145-49e8-9ad3-3ef884e90c98.png)
